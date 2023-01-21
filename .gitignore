@@ -1,0 +1,8 @@
+.cproject
+.project
+.settings/
+Debug/
+STM32F446RETX_FLASH.ld
+STM32F446RETX_RAM.ld
+.gitignore~
+..gitignore.un~
